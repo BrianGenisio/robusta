@@ -1,0 +1,16 @@
+{
+	"name": "robusta",
+	"version": "0.0.4",
+	"description": "A tool for generating Backbone/CoffeeScript Node.js-based apps",
+	"main": "package.js",
+	"bin": { "robusta": "./bin/robusta.js"},
+	"keywords": [
+		"Backbone.js",
+		"CoffeeScript",
+		"Coffee-Toaster"
+	],
+	"repository" : {
+		"type" : "git",
+		"url" : "https://github.com/BrianGenisio/robusta.git"
+	} 
+}
