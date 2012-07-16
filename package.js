@@ -1,1 +1,2 @@
-console.log("hello package");
+require("coffee-script");
+require("./generator.coffee");
